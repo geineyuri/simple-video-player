@@ -5,5 +5,5 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"
 
 kv_namespaces = [
-  { binding = "Simple_Player", id = "b64c12d812c8435b9b46811ac9e57502"}
+  { binding = "VIDEO_CONFIG", id = "3639e1e8a5d54b769dd439500716e497"}
 ]
